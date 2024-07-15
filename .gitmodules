@@ -1,0 +1,3 @@
+[submodule "content/obsidian_vault"]
+	path = content/obsidian_vault
+	url = https://github.com/buchholzmd/obsidian_vault.git
