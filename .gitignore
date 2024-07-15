@@ -9,3 +9,12 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/Assets/*.md
+content/Assets/*.pdf
+content/Daily/
+"content/Notes/Video Games/"
+"content/Notes/Weekly Check-in/"
+content/Projects/
+content/School/
+content/Sketchpad/
+content/Templates/
