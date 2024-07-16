@@ -1,0 +1,1 @@
+#!sed -i -e 's#../../../content#../content#' .git/modules/content/config
