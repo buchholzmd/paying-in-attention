@@ -27,7 +27,7 @@ const config: QuartzConfig = {
                     "content/Projects/",
                     "content/School/",
                     "content/Sketchpad/",
-                    "content/Templates/"],
+                    "content/Templates/",],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
