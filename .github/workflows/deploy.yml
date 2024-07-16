@@ -20,6 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
           fetch-depth: 0 # Fetch all history for git info
           submodules: 'recursive'
       - uses: actions/setup-node@v4
