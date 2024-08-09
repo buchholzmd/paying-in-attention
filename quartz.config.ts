@@ -15,8 +15,11 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "buchholzmd.github.io",
-    ignorePatterns: ["private", "content/Assets"],
+    baseUrl: "buchholzmd.github.io/paying-in-attention",
+    ignorePatterns: [
+      "private", 
+      "content/Assets",
+    ],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
