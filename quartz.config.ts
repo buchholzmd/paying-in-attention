@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "buchholzmd.github.io/paying-in-attention",
     ignorePatterns: [
       "private", 
-      "content/Assets",
+      "../content/Assets",
     ],
     defaultDateType: "created",
     theme: {
