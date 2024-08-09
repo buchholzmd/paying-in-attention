@@ -17,8 +17,18 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "buchholzmd.github.io/paying-in-attention",
     ignorePatterns: [
-      "private", 
+      "private",
+      "templates",
+      ".obsidian",
       "Assets",
+      "Daily",
+      // "Notes/Concept/[0-9]*.md",
+      "Notes/Video Games",
+      "Notes/Weekly Check-in",
+      "Projects/Music",
+      "School",
+      "Sketchpad",
+      "Templates"
     ],
     defaultDateType: "created",
     theme: {
