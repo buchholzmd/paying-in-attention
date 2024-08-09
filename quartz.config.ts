@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "buchholzmd.github.io",
     ignorePatterns: ["private", "content/Assets"],
     defaultDateType: "created",
     theme: {
