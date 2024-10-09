@@ -28,6 +28,7 @@ const config: QuartzConfig = {
       "Notes/Video Games",
       "Notes/Weekly Check-in",
       "Projects/Music",
+      "Projects/Research/claude*",
       "School",
       "Sketchpad",
       "Templates"
