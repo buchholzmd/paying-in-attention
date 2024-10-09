@@ -21,6 +21,7 @@ const config: QuartzConfig = {
       "templates",
       ".obsidian",
       "Assets/*.md",
+      "Career",
       "Daily",
       "Notes/Notes.md",
       "Notes/Concept/[0-9]*.md",
